@@ -28,3 +28,18 @@ C:\Users\qutubuddin.haider\Qutub Dropbox\Md Qutubuddin Haider\My PC (PS79316)\Do
 C:\Users\qutubuddin.haider\Qutub Dropbox\Md Qutubuddin Haider\My PC (PS79316)\Downloads\PwaProject2\PwaProject2\Shared\obj\Debug\net5.0\ref\PwaProject2.Shared.dll
 C:\Users\qutubuddin.haider\Qutub Dropbox\Md Qutubuddin Haider\My PC (PS79316)\Downloads\PwaProject2\PwaProject2\Shared\obj\Debug\net5.0\PwaProject2.Shared.pdb
 C:\Users\qutubuddin.haider\Qutub Dropbox\Md Qutubuddin Haider\My PC (PS79316)\Downloads\PwaProject2\PwaProject2\Shared\obj\Debug\net5.0\PwaProject2.Shared.genruntimeconfig.cache
+C:\Users\qutubuddin.haider\source\PWA\PwaProject2\PwaProject2\Shared\bin\Debug\net5.0\PwaProject2.Shared.deps.json
+C:\Users\qutubuddin.haider\source\PWA\PwaProject2\PwaProject2\Shared\bin\Debug\net5.0\PwaProject2.Shared.runtimeconfig.json
+C:\Users\qutubuddin.haider\source\PWA\PwaProject2\PwaProject2\Shared\bin\Debug\net5.0\PwaProject2.Shared.runtimeconfig.dev.json
+C:\Users\qutubuddin.haider\source\PWA\PwaProject2\PwaProject2\Shared\bin\Debug\net5.0\PwaProject2.Shared.dll
+C:\Users\qutubuddin.haider\source\PWA\PwaProject2\PwaProject2\Shared\bin\Debug\net5.0\ref\PwaProject2.Shared.dll
+C:\Users\qutubuddin.haider\source\PWA\PwaProject2\PwaProject2\Shared\bin\Debug\net5.0\PwaProject2.Shared.pdb
+C:\Users\qutubuddin.haider\source\PWA\PwaProject2\PwaProject2\Shared\obj\Debug\net5.0\PwaProject2.Shared.csprojAssemblyReference.cache
+C:\Users\qutubuddin.haider\source\PWA\PwaProject2\PwaProject2\Shared\obj\Debug\net5.0\PwaProject2.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qutubuddin.haider\source\PWA\PwaProject2\PwaProject2\Shared\obj\Debug\net5.0\PwaProject2.Shared.AssemblyInfoInputs.cache
+C:\Users\qutubuddin.haider\source\PWA\PwaProject2\PwaProject2\Shared\obj\Debug\net5.0\PwaProject2.Shared.AssemblyInfo.cs
+C:\Users\qutubuddin.haider\source\PWA\PwaProject2\PwaProject2\Shared\obj\Debug\net5.0\PwaProject2.Shared.csproj.CoreCompileInputs.cache
+C:\Users\qutubuddin.haider\source\PWA\PwaProject2\PwaProject2\Shared\obj\Debug\net5.0\PwaProject2.Shared.dll
+C:\Users\qutubuddin.haider\source\PWA\PwaProject2\PwaProject2\Shared\obj\Debug\net5.0\ref\PwaProject2.Shared.dll
+C:\Users\qutubuddin.haider\source\PWA\PwaProject2\PwaProject2\Shared\obj\Debug\net5.0\PwaProject2.Shared.pdb
+C:\Users\qutubuddin.haider\source\PWA\PwaProject2\PwaProject2\Shared\obj\Debug\net5.0\PwaProject2.Shared.genruntimeconfig.cache

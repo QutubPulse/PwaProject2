@@ -112,7 +112,7 @@ using Microsoft.AspNetCore.SignalR.Client;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 82 "C:\Users\qutubuddin.haider\source\PWA\PwaProject2\PwaProject2\Client\Pages\Index.razor"
+#line 79 "C:\Users\qutubuddin.haider\source\PWA\PwaProject2\PwaProject2\Client\Pages\Index.razor"
     public List<Product> loProductList = new List<Product>();
     public Product loProduct = new Product();
     private HubConnection hubConnection;
@@ -120,8 +120,13 @@ using Microsoft.AspNetCore.SignalR.Client;
     protected override async Task OnInitializedAsync()
     {
         await GetProductList();
-        hubConnection = new HubConnectionBuilder().WithUrl(NavigationManager.ToAbsoluteUri("/broadcastHub")).Build();
-        hubConnection.On("ReceiveMessage", async () => {await GetProductList();StateHasChanged();});
+        hubConnection = new HubConnectionBuilder().
+            WithUrl(NavigationManager.ToAbsoluteUri("/broadcastHub")).
+            Build();
+        hubConnection.On("ReceiveMessage", async () => 
+        {
+            await GetProductList();StateHasChanged();
+        });
         await hubConnection.StartAsync();
     }
     public bool IsConnected =>
@@ -143,7 +148,7 @@ using Microsoft.AspNetCore.SignalR.Client;
         loProduct = new Product();
         await ProductService.UpdateProduct(foProduct);
         if (IsConnected) await SendMessage();
-        await GetProductList();
+             await GetProductList();
         //InvokeAsync(StateHasChanged);
     }
     Task SendMessage() => hubConnection.SendAsync("SendMessage");
